@@ -3,5 +3,11 @@
   "url": "https://github.com/303mtl/typoplugin303-releases/releases/download/v1.0.2/TYPOPLUGIN303.zip",
   "dmg": "https://github.com/303mtl/typoplugin303-releases/releases/download/v1.0.2/TYPOPLUGIN303.dmg",
   "notes": "Type a word and watch it react to the music, with block, grid, slice, glitch and scroll modes and live Syphon output for your VJ rig.\n\nThis version has a cleaner interface and one click auto updates. It now lives in its own release home.\n\nFirst launch: open System Settings, then Privacy and Security, and click Open Anyway. You need an Apple Silicon Mac on macOS 14 Sonoma or later.",
-  "date": "2026-10-13"
+  "date": "2026-10-13",
+  "win": {
+    "version": "1.0.2",
+    "url": "https://github.com/303mtl/typoplugin303-releases/releases/download/win-v1.0.2/TYPOPLUGIN303-win.zip",
+    "notes": "First public Windows version. Output goes into Resolume and TouchDesigner over Spout. Updates itself with one click, like the Mac app.",
+    "date": "2026-10-17"
+  }
 }
